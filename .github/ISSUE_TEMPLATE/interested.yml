@@ -116,8 +116,6 @@ body:
     validations:
       required: false
  
-
- 
   - type: textarea
     id: in-your-own-words
     attributes:
