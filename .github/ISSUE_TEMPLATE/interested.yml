@@ -110,7 +110,7 @@ body:
     attributes:
       label: Other tech you fancy
       description: |
-        Describe any other technology or languages you've used
+        Describe or list any other technology, platform, languages you've used
       placeholder: |
         I also know...
     validations:
@@ -121,10 +121,12 @@ body:
     attributes:
       label: In your own words...
       description: |
-        Use a few sentences to describe yourself; the study programme and school you are attending, from a perspective of _DevOps_ 
-        and _Software Development_ list some of the things that you find interesting and would like to develop your skills.
+        Use a few sentences to describe yourself from a perspective of _DevOps_ 
+        and _Software Development_; what are you hoping to achieve during an inernship with .tech that. List some of the things 
+        that you find interesting and where would like to develop your skills. Do you have a specific internship project in mind 
+        or are there any of the ones we have suggested that you took interest in?
       placeholder: |
-        I wanna become good at...
+        I wanna...
     validations:
       required: true
 
