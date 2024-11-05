@@ -18,6 +18,9 @@ Each idea is described in it's own repo and all repos have public discussions tu
 
 You are eligble to apply for an internship with us, of you study at B.Sc. or M.Sc. level in a field relevant to what we do. If you are interested - we have a [sub page dedicated to more details on this](https://github.com/orgs/thetechcollective/discussions/2) 
 
+**Register you interest in an internship with .tech that** simply by creating an issue of type [Register your intrest and a bit about you](https://github.com/tt-internship/public-discussions/issues/new?&template=interested.yml).
+
+
 ## Contact us
 
 If need to get in contact with the community lead you can contact @lakruzz at [lakr@thetechcollective.eu](mailto:lakr@thetechcollective.eu). 
