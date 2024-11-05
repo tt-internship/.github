@@ -118,6 +118,18 @@ body:
         I wanna become good at...
     validations:
       required: true
+ 
+  - type: textarea
+    id: in-your-own-words
+    attributes:
+      label: In your own words...
+      description: |
+        Use a few sentences to describe yourself; the study programme and school you are attending, from a perspective of _DevOps_ 
+        and _Software Development_ list some of the things that you find interesting and would like to develop your skills.
+      placeholder: |
+        I wanna become good at...
+    validations:
+      required: true
 
   - type: markdown
     attributes:
