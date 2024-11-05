@@ -8,7 +8,15 @@ This organisation you are browsing now is setup specifically for hosting a commu
 
 ## Take an intership with us
 
-...or become a junior developer (student job). You are eligble for these options if you study at B.Sc. or M.Sc. level in a field relevant to what we do. If you are interested - we have a [sub page dedicated to more details on this](https://github.com/orgs/thetechcollective/discussions/2) 
+Are you looking for a cool project.
+
+We have presented some ideas, some of them are only half baked and only briefly described. Others are more elaborated and well defined. You are free to pitch your own ideas too.
+
+Each idea is described in it's own repo and all repos have public discussions turned on, so you can engage and ask questions there.
+
+[**See all the ideas**](https://github.com/search?q=topic%3Ainternship-challenge+org%3Att-internship&type=Repositories)
+
+You are eligble to apply for an internship with us, of you study at B.Sc. or M.Sc. level in a field relevant to what we do. If you are interested - we have a [sub page dedicated to more details on this](https://github.com/orgs/thetechcollective/discussions/2) 
 
 ## Contact us
 
