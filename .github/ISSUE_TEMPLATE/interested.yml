@@ -1,5 +1,5 @@
-name: A bit about you
-description: Just a few questions to set the playing field - use your full name as the title.
+name: Register your intrest and a bit about you
+description: Use your full name as the title.
 body:
   - type: dropdown
     id: notification
@@ -13,31 +13,134 @@ body:
       default: 0
     validations:
       required: true
-
+      
   - type: dropdown
-    id: markdown
+    id: education
     attributes:
-      label: Confident in MarkDown
-      description: |
-        We assume that you are familiar with [GitHub flavoured MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to an extend that you are confident to do this exercise and document your progress and replies here in GitHub Issues. Is that a fair assumption?
+      label: Relevant education
+      description: Please indicate the education level you're currently studying
       options:
-        - Yep - that's right!
-        - No - Wait ...eeeh! MarkDown?
+        - I'm currently studying a relevant master's degree
+        - I'm currently studying a relevant master's degree
+        - I'm currently studying something else.
       default: 0
     validations:
       required: true
-      
 
+  - type: textarea
+    id: programme
+    attributes:
+      label: Your study
+      description: |
+        Describe the school and study programme you are attending, how far are you in your study, how long is your intersnhip period, when 
+        does it start, are there any special requirements you must fulfill towards your study for this internship.
+      placeholder: |
+        I'm styding at ...
+    validations:
+      required: true
+      
+  - type: markdown
+    attributes:
+      value: |        
+        Go through this series of checkboxes below and check everyone where you have some experience.
+  - type: checkboxes
+    id: os
+    attributes:
+      description: Check all that applies.
+      label: Which operating systems and OS technologies have you used?
+      options:
+        - label: Windows
+        - label: MacOS
+        - label: Linux    
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: languages
+    attributes:
+      description: Check all that applies 
+      label: Which programming languages and dtabase technologies have you used?
+      options:
+        - label: JavaScript or TypeScript
+        - label: Java 
+        - label: C# and .NET (core included)
+        - label: Python
+        - label: Go 
+        - label: Rust or Dart
+        - label: C or C++
+        - label: Relational databases
+        - label: Document (no-sal) databases
+        - label: ...other
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: clouds
+    attributes:
+      description: Check all that applies
+      label: Which clouds, platforms or frameworks have you used?
+      options:
+        - label: AWS
+        - label: GCP
+        - label: Azure
+        - label: Kubernetes
+        - label: Firebase or Supabase
+        - label: Flutter or React Native
+        - label: ...other
+    validations:
+      required: false
+      
+  - type: checkboxes
+    id: testtools
+    attributes:
+      description: Check all that applies
+      label: Which test technologies, tools and approaches have you _automated?_
+      options:
+        - label: Unit tests
+        - label: Static Code Analysis
+        - label: Integration tests
+        - label: End-to-end tests / Functional tests
+        - label: Performance/Load tests
+        - label: ...other 
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: devops
+    attributes:
+      description: Check all that applies
+      label: Which DevOps and DevX technologies, tools and approaches have you used?
+      options:
+        - label: Declarative pipelines (GitHub Actions, Circle CI, etc.)
+        - label: Devcontainers
+        - label: Git, GitHub, GitLab...
+        - label: Docker
+        - label ...other
+    validations:
+      required: false
+
+  - type: textarea
+    id: tech
+    attributes:
+      label: Other tech you fancy
+      description: |
+        Describe any other technology or languages you've used
+      placeholder: |
+        I also know...
+    validations:
+      required: false
+ 
   - type: textarea
     id: in-your-own-words
     attributes:
-      label: Bread crumbs...
+      label: In your own words...
       description: |
-        If you have any relevant material or links publicly available on the internet that you would would like to draw our attention to. Please list them here.
+        Use a few sentences to describe yourself; the study programme and school you are attending, from a perspective of _DevOps_ 
+        and _Software Development_ list some of the things that you find interesting and would like to develop your skills.
       placeholder: |
-        Linkedin posts, blog posts, articles, videos, podcasts, slide decks etc.
+        I wanna become good at...
     validations:
-      required: false
+      required: true
 
   - type: markdown
     attributes:
