@@ -105,19 +105,18 @@ body:
     validations:
       required: false
 
-
- 
   - type: textarea
-    id: in-your-own-words
+    id: tech
     attributes:
-      label: In your own words...
+      label: Other tech you fancy
       description: |
-        Use a few sentences to describe yourself; the study programme and school you are attending, from a perspective of _DevOps_ 
-        and _Software Development_ list some of the things that you find interesting and would like to develop your skills.
+        Describe any other technology or languages you've used
       placeholder: |
-        I wanna become good at...
+        I also know...
     validations:
-      required: true
+      required: false
+ 
+
  
   - type: textarea
     id: in-your-own-words
