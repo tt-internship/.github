@@ -20,8 +20,8 @@ body:
       label: Relevant education
       description: Please indicate the education level you're currently studying
       options:
-        - I'm currently studying a relevant master's degree
-        - I'm currently studying a relevant master's degree
+        - I'm currently studying a relevant master degree
+        - I'm currently studying a relevant bachelor degree
         - I'm currently studying something else.
       default: 0
     validations:
