@@ -10,7 +10,7 @@ This organisation you are browsing now is setup specifically for hosting a commu
 
 Are you looking for a cool project.
 
-We have presented some ideas, some of them are only half baked and only briefly described. Others are more elaborated and well defined. You are free to pitch your own ideas too.
+We have presented some ideas, some of them are only half baked and only briefly described. Others are more elaborated and well defined. You are free to [pitch your own ideas too](https://github.com/orgs/tt-internship/discussions/categories/ideas).
 
 Each idea is described in it's own repo and all repos have public discussions turned on, so you can engage and ask questions there.
 
