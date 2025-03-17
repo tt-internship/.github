@@ -12,10 +12,6 @@ Are you looking for a cool project.
 
 We have presented some ideas, some of them are only half baked and only briefly described. Others are more elaborated and well defined. You are free to [pitch your own ideas too](https://github.com/orgs/tt-internship/discussions/categories/ideas).
 
-Each idea is described in it's own repo and all repos have public discussions turned on, so you can engage and ask questions there.
-
-[**See all the ideas**](https://github.com/search?q=topic%3Ainternship-challenge+org%3Att-internship&type=Repositories)
-
 You are eligble to apply for an internship with us, of you study at B.Sc. or M.Sc. level in a field relevant to what we do. If you are interested - we have a [sub page dedicated to more details on this](https://github.com/orgs/thetechcollective/discussions/2) 
 
 **Register you interest in an internship with .tech that** simply by creating an issue of type [Register your intrest and a bit about you](https://github.com/tt-internship/public-discussions/issues/new?&template=interested.yml).
