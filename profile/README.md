@@ -10,7 +10,7 @@ This organisation you are browsing now is setup specifically for hosting a commu
 
 Are you looking for a cool project.
 
-We have presented some ideas, some of them are only half baked and only briefly described. Others are more elaborated and well defined. You are free to [pitch your own ideas too](https://github.com/orgs/tt-internship/discussions/categories/ideas).
+We have presented [some ideas]((https://github.com/orgs/tt-internship/discussions/categories/ideas)), some of them are only half baked and only briefly described. Others are more elaborated and well defined. You are free to [pitch your own ideas too](https://github.com/orgs/tt-internship/discussions/categories/ideas).
 
 You are eligble to apply for an internship with us, of you study at B.Sc. or M.Sc. level in a field relevant to what we do. If you are interested - we have a [sub page dedicated to more details on this](https://github.com/orgs/thetechcollective/discussions/2) 
 
